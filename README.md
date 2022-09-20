@@ -16,7 +16,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ![](https://i.imgur.com/OUDz5Ab.gif)
 
-
 ### Notes
 
 The challenge I faced was finding the one mistake that was "breaking" my code. When I was implementing the tab bar controller and trying to run the app, it showed a blank screen. For the longest I did not know what I did wrong, but the solution was to move the Storyboard Entry Point Arrow. It was that simple. I forget that I need to let myself make these mistakes!
