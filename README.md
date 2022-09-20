@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/OUDz5Ab.gif)
+https://i.imgur.com/OUDz5Ab.gif
 
 ### Notes
 
@@ -35,7 +35,7 @@ The challenge I faced was finding the one mistake that was "breaking" my code. W
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/9JKlCrb.gif)
+https://i.imgur.com/9JKlCrb.gif
 
 ### Notes
 The challenges I faced when working on this assignment was understanding why the syntax is the way it is. As I was watching the assignment videos, I find myself wanting to understand what I didn't need to "worry" for now. 
